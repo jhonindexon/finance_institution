@@ -12,10 +12,10 @@ footer p{
 	text-align: center;
 }
 
-.navbar{
-	color: skyblue;
-}
-
 p{
 	font-size: 20px;
+}
+
+a {
+	text-decoration: none;
 }
